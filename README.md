@@ -11,7 +11,6 @@
 - [How It Works](#how-it-works)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## Introduction
@@ -44,9 +43,6 @@ The Celebrity Look Alike app uses a deep learning model to recognize faces and m
 
 We welcome contributions! If you have suggestions or find bugs, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
